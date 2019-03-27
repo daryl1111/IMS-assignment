@@ -18,4 +18,5 @@ sudo apt-get install libx265-dev libnuma-dev
 ---------------------------Procedure------------------------------
 
 Input file name, test times, bitrate and encoding speed for each test
+
 Output PSNR, SSIM VMAF and graph plot
